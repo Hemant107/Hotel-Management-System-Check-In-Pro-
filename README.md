@@ -26,5 +26,5 @@ A Java-based console application designed to simplify hotel operations such as g
    4. Console I/O
 
 📚 Purpose
-    This project was created as a part of academic learning to apply Java programming and build a functional hotel management system.
+    1. This project was created as a part of academic learning to apply Java programming and build a functional hotel management system.
 
